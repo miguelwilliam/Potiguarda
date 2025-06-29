@@ -1,0 +1,4 @@
+{
+    "token": "<<INSERT TOKEN HERE>>", 
+    "inviteLink": "https://discord.com/api/oauth2/authorize?client_id=<<INSERT CLIENT ID HERE>>&permissions=<<INSERT PERMISSIONS INT HERE>>&scope=bot%20applications.commands"
+}
